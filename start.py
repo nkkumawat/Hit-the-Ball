@@ -3,8 +3,8 @@ import random
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
-path = "/home/sonu/.local/lib/python3.6/site-packages/cv2/data/"
-palm_cascade = cv2.CascadeClassifier(path + 'palm.xml')
+path = "/"
+palm_cascade = cv2.CascadeClassifier('palm.xml')
 ball_images = ['ball.png' , 'ball1.png' , 'ball2.png']
 ball_image_index = 0
 x_balls =[]
