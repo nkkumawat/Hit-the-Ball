@@ -1,5 +1,5 @@
 # Hit-the-Ball
-Game of Hit the Ball
+Augmented reality Game of Hit the Ball
 # Technologies
 
 ```
